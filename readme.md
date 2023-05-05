@@ -1,5 +1,7 @@
 # Saga Distributed Transaction Pattern - Spring boot + embedded debezium + kafka + inbox-outbox pattern
 
+Medium article link -> [Medium Link](https://medium.com/@htyesilyurt/saga-distributed-transaction-pattern-spring-boot-embedded-debezium-apache-kafka-8d111de0b444).
+
 Technologies
 ------------
 - `Spring Boot`
