@@ -1,0 +1,17 @@
+server:
+  port: 7003
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:postgresql://localhost:5432/saga
+    username: saga
+    password: saga
+
+
+kafka:
+  bootstrapAddress: localhost:29092
+
+
